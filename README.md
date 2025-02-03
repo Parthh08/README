@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I Parth Singh, a highly motivated second-year CSE B.Tech student with a good academic record and a passion for learning. Committed to excellence, I excel in both my studies and extracurricular activities. A fast learner, I embrace new challenges and thrive in dynamic environments. Eager to contribute my skills and enthusiasm to achieve success in the field of technology</h2>
+<h2 align="left">Hi 👋! I Parth Singh, a highly motivated third-year CSE B.Tech student with a good academic record and a passion for learning. Committed to excellence, I excel in both my studies and extracurricular activities. A fast learner, I embrace new challenges and thrive in dynamic environments. Eager to contribute my skills and enthusiasm to achieve success in the field of technology</h2>
 
 ###
 
